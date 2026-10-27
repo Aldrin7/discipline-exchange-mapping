@@ -13,8 +13,11 @@ check_text.py
 fix_tag.py
 check_results.txt
 
-# PaperReview AI outputs
-*.paperreview.*
+# Temp scripts
+check_patterns.py
+check_text.py
+fix_tag.py
+check_results.txt
 
 # Kilo internal config
 .kilo/
