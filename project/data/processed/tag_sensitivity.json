@@ -1,0 +1,28 @@
+{
+  "original_bridge_singleton": {
+    "cross_out": 0.8407,
+    "cross_in": 0.7981,
+    "EI_out": 0.6813,
+    "EI_in": 0.5963
+  },
+  "scenario_A_interdisciplinary": {
+    "cross_out": 0.7234,
+    "cross_in": 0.7471,
+    "EI_out": 0.4469,
+    "EI_in": 0.4942
+  },
+  "scenario_B_general": {
+    "cross_out": 0.3022,
+    "cross_in": 0.3573,
+    "EI_out": -0.3956,
+    "EI_in": -0.2854
+  },
+  "scenario_C_biology": {
+    "cross_out": 0.8297,
+    "cross_in": 0.7773,
+    "EI_out": 0.6593,
+    "EI_in": 0.5545
+  },
+  "diser_entropy_15": 2.3275,
+  "max_entropy_15": 2.7081
+}

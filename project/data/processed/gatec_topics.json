@@ -1,0 +1,867 @@
+{
+  "model": "BAAI/bge-small-en-v1.5 (3261.9s, batch=16, parallel=1, threads=4)",
+  "terms": {
+    "0": [
+      {
+        "term": "altmetric",
+        "score": 0.133435
+      },
+      {
+        "term": "score",
+        "score": 0.107608
+      },
+      {
+        "term": "article",
+        "score": 0.072337
+      },
+      {
+        "term": "crossref",
+        "score": 0.066532
+      },
+      {
+        "term": "pdf",
+        "score": 0.066168
+      },
+      {
+        "term": "attention",
+        "score": 0.065889
+      },
+      {
+        "term": "citations",
+        "score": 0.065813
+      },
+      {
+        "term": "updated",
+        "score": 0.062665
+      },
+      {
+        "term": "publication",
+        "score": 0.059176
+      },
+      {
+        "term": "get",
+        "score": 0.057861
+      }
+    ],
+    "1": [
+      {
+        "term": "stem",
+        "score": 0.044375
+      },
+      {
+        "term": "women",
+        "score": 0.023017
+      },
+      {
+        "term": "gender",
+        "score": 0.022658
+      },
+      {
+        "term": "identity",
+        "score": 0.022556
+      },
+      {
+        "term": "engineering",
+        "score": 0.020387
+      },
+      {
+        "term": "career",
+        "score": 0.017555
+      },
+      {
+        "term": "physics",
+        "score": 0.01527
+      },
+      {
+        "term": "belonging",
+        "score": 0.014827
+      },
+      {
+        "term": "self",
+        "score": 0.012891
+      },
+      {
+        "term": "female",
+        "score": 0.011868
+      }
+    ],
+    "2": [
+      {
+        "term": "science",
+        "score": 0.018871
+      },
+      {
+        "term": "children",
+        "score": 0.015491
+      },
+      {
+        "term": "representations",
+        "score": 0.013323
+      },
+      {
+        "term": "visual",
+        "score": 0.012208
+      },
+      {
+        "term": "learning",
+        "score": 0.012105
+      },
+      {
+        "term": "drawing",
+        "score": 0.011165
+      },
+      {
+        "term": "scientific",
+        "score": 0.011082
+      },
+      {
+        "term": "conceptual",
+        "score": 0.010436
+      },
+      {
+        "term": "reasoning",
+        "score": 0.010193
+      },
+      {
+        "term": "students",
+        "score": 0.010105
+      }
+    ],
+    "3": [
+      {
+        "term": "engineering",
+        "score": 0.064304
+      },
+      {
+        "term": "design",
+        "score": 0.016718
+      },
+      {
+        "term": "education",
+        "score": 0.013447
+      },
+      {
+        "term": "engineers",
+        "score": 0.012819
+      },
+      {
+        "term": "learning",
+        "score": 0.011202
+      },
+      {
+        "term": "research",
+        "score": 0.009897
+      },
+      {
+        "term": "students",
+        "score": 0.008439
+      },
+      {
+        "term": "study",
+        "score": 0.008437
+      },
+      {
+        "term": "stem",
+        "score": 0.007974
+      },
+      {
+        "term": "skills",
+        "score": 0.007936
+      }
+    ],
+    "4": [
+      {
+        "term": "chemistry",
+        "score": 0.036764
+      },
+      {
+        "term": "course",
+        "score": 0.017241
+      },
+      {
+        "term": "laboratory",
+        "score": 0.014923
+      },
+      {
+        "term": "safety",
+        "score": 0.013541
+      },
+      {
+        "term": "chemical",
+        "score": 0.013517
+      },
+      {
+        "term": "green",
+        "score": 0.010739
+      },
+      {
+        "term": "students",
+        "score": 0.010654
+      },
+      {
+        "term": "learning",
+        "score": 0.009387
+      },
+      {
+        "term": "organic",
+        "score": 0.009068
+      },
+      {
+        "term": "skills",
+        "score": 0.009067
+      }
+    ],
+    "5": [
+      {
+        "term": "experiment",
+        "score": 0.020965
+      },
+      {
+        "term": "laboratory",
+        "score": 0.013147
+      },
+      {
+        "term": "materials",
+        "score": 0.011716
+      },
+      {
+        "term": "water",
+        "score": 0.011344
+      },
+      {
+        "term": "chemistry",
+        "score": 0.011207
+      },
+      {
+        "term": "experiments",
+        "score": 0.009483
+      },
+      {
+        "term": "chemical",
+        "score": 0.008785
+      },
+      {
+        "term": "reaction",
+        "score": 0.008524
+      },
+      {
+        "term": "students",
+        "score": 0.008462
+      },
+      {
+        "term": "undergraduate",
+        "score": 0.008209
+      }
+    ],
+    "6": [
+      {
+        "term": "issue",
+        "score": 0.074434
+      },
+      {
+        "term": "information",
+        "score": 0.051567
+      },
+      {
+        "term": "orcid",
+        "score": 0.046918
+      },
+      {
+        "term": "keywords",
+        "score": 0.043939
+      },
+      {
+        "term": "org",
+        "score": 0.03455
+      },
+      {
+        "term": "editorial",
+        "score": 0.033861
+      },
+      {
+        "term": "journal",
+        "score": 0.025917
+      },
+      {
+        "term": "publication",
+        "score": 0.022881
+      },
+      {
+        "term": "graphical",
+        "score": 0.02188
+      },
+      {
+        "term": "masthead",
+        "score": 0.021697
+      }
+    ],
+    "7": [
+      {
+        "term": "chatgpt",
+        "score": 0.02881
+      },
+      {
+        "term": "genai",
+        "score": 0.028169
+      },
+      {
+        "term": "generative",
+        "score": 0.019174
+      },
+      {
+        "term": "artificial",
+        "score": 0.01812
+      },
+      {
+        "term": "intelligence",
+        "score": 0.018097
+      },
+      {
+        "term": "learning",
+        "score": 0.013543
+      },
+      {
+        "term": "education",
+        "score": 0.011904
+      },
+      {
+        "term": "science",
+        "score": 0.011617
+      },
+      {
+        "term": "tools",
+        "score": 0.011199
+      },
+      {
+        "term": "machine",
+        "score": 0.010904
+      }
+    ],
+    "8": [
+      {
+        "term": "organic",
+        "score": 0.020726
+      },
+      {
+        "term": "reaction",
+        "score": 0.020204
+      },
+      {
+        "term": "chemistry",
+        "score": 0.019878
+      },
+      {
+        "term": "nmr",
+        "score": 0.016953
+      },
+      {
+        "term": "laboratory",
+        "score": 0.015669
+      },
+      {
+        "term": "experiment",
+        "score": 0.015641
+      },
+      {
+        "term": "molecular",
+        "score": 0.013194
+      },
+      {
+        "term": "synthesis",
+        "score": 0.012385
+      },
+      {
+        "term": "undergraduate",
+        "score": 0.01087
+      },
+      {
+        "term": "chemical",
+        "score": 0.010699
+      }
+    ],
+    "9": [
+      {
+        "term": "science",
+        "score": 0.02928
+      },
+      {
+        "term": "stem",
+        "score": 0.022838
+      },
+      {
+        "term": "justice",
+        "score": 0.02
+      },
+      {
+        "term": "equity",
+        "score": 0.01701
+      },
+      {
+        "term": "social",
+        "score": 0.013913
+      },
+      {
+        "term": "education",
+        "score": 0.013749
+      },
+      {
+        "term": "identity",
+        "score": 0.012375
+      },
+      {
+        "term": "teachers",
+        "score": 0.011736
+      },
+      {
+        "term": "community",
+        "score": 0.010759
+      },
+      {
+        "term": "identities",
+        "score": 0.010503
+      }
+    ],
+    "10": [
+      {
+        "term": "motion",
+        "score": 0.016653
+      },
+      {
+        "term": "abstract",
+        "score": 0.016503
+      },
+      {
+        "term": "physics",
+        "score": 0.015992
+      },
+      {
+        "term": "simple",
+        "score": 0.013642
+      },
+      {
+        "term": "experiment",
+        "score": 0.012478
+      },
+      {
+        "term": "force",
+        "score": 0.01222
+      },
+      {
+        "term": "energy",
+        "score": 0.011834
+      },
+      {
+        "term": "experimental",
+        "score": 0.011418
+      },
+      {
+        "term": "pendulum",
+        "score": 0.011369
+      },
+      {
+        "term": "ball",
+        "score": 0.010733
+      }
+    ],
+    "11": [
+      {
+        "term": "climate",
+        "score": 0.037464
+      },
+      {
+        "term": "geoscience",
+        "score": 0.026266
+      },
+      {
+        "term": "change",
+        "score": 0.018744
+      },
+      {
+        "term": "environmental",
+        "score": 0.016221
+      },
+      {
+        "term": "science",
+        "score": 0.015099
+      },
+      {
+        "term": "earth",
+        "score": 0.012695
+      },
+      {
+        "term": "field",
+        "score": 0.011254
+      },
+      {
+        "term": "knowledge",
+        "score": 0.009642
+      },
+      {
+        "term": "geosciences",
+        "score": 0.00958
+      },
+      {
+        "term": "education",
+        "score": 0.009127
+      }
+    ],
+    "12": [
+      {
+        "term": "teachers",
+        "score": 0.037796
+      },
+      {
+        "term": "science",
+        "score": 0.035002
+      },
+      {
+        "term": "teacher",
+        "score": 0.02087
+      },
+      {
+        "term": "scientific",
+        "score": 0.020094
+      },
+      {
+        "term": "nos",
+        "score": 0.017314
+      },
+      {
+        "term": "argumentation",
+        "score": 0.01642
+      },
+      {
+        "term": "epistemic",
+        "score": 0.015938
+      },
+      {
+        "term": "knowledge",
+        "score": 0.014627
+      },
+      {
+        "term": "inquiry",
+        "score": 0.014343
+      },
+      {
+        "term": "practices",
+        "score": 0.013715
+      }
+    ],
+    "13": [
+      {
+        "term": "physics",
+        "score": 0.046705
+      },
+      {
+        "term": "quantum",
+        "score": 0.024319
+      },
+      {
+        "term": "conceptual",
+        "score": 0.011783
+      },
+      {
+        "term": "students",
+        "score": 0.011095
+      },
+      {
+        "term": "mechanics",
+        "score": 0.010009
+      },
+      {
+        "term": "understanding",
+        "score": 0.009201
+      },
+      {
+        "term": "problem",
+        "score": 0.008753
+      },
+      {
+        "term": "reasoning",
+        "score": 0.008569
+      },
+      {
+        "term": "concepts",
+        "score": 0.008381
+      },
+      {
+        "term": "introductory",
+        "score": 0.008084
+      }
+    ],
+    "14": [
+      {
+        "term": "chemistry",
+        "score": 0.031075
+      },
+      {
+        "term": "reasoning",
+        "score": 0.015264
+      },
+      {
+        "term": "chemical",
+        "score": 0.013135
+      },
+      {
+        "term": "students",
+        "score": 0.012632
+      },
+      {
+        "term": "representations",
+        "score": 0.010701
+      },
+      {
+        "term": "conceptual",
+        "score": 0.010646
+      },
+      {
+        "term": "thinking",
+        "score": 0.0103
+      },
+      {
+        "term": "organic",
+        "score": 0.009885
+      },
+      {
+        "term": "knowledge",
+        "score": 0.009475
+      },
+      {
+        "term": "learning",
+        "score": 0.009414
+      }
+    ],
+    "15": [
+      {
+        "term": "game",
+        "score": 0.036458
+      },
+      {
+        "term": "chemistry",
+        "score": 0.020663
+      },
+      {
+        "term": "learning",
+        "score": 0.014498
+      },
+      {
+        "term": "virtual",
+        "score": 0.014318
+      },
+      {
+        "term": "laboratory",
+        "score": 0.012728
+      },
+      {
+        "term": "activity",
+        "score": 0.011671
+      },
+      {
+        "term": "students",
+        "score": 0.011109
+      },
+      {
+        "term": "digital",
+        "score": 0.010842
+      },
+      {
+        "term": "chemical",
+        "score": 0.010326
+      },
+      {
+        "term": "escape",
+        "score": 0.009714
+      }
+    ],
+    "16": [
+      {
+        "term": "science",
+        "score": 0.042959
+      },
+      {
+        "term": "stem",
+        "score": 0.025663
+      },
+      {
+        "term": "teachers",
+        "score": 0.020621
+      },
+      {
+        "term": "self",
+        "score": 0.014811
+      },
+      {
+        "term": "efficacy",
+        "score": 0.014242
+      },
+      {
+        "term": "achievement",
+        "score": 0.013246
+      },
+      {
+        "term": "school",
+        "score": 0.013129
+      },
+      {
+        "term": "teacher",
+        "score": 0.012992
+      },
+      {
+        "term": "learning",
+        "score": 0.01194
+      },
+      {
+        "term": "interest",
+        "score": 0.011735
+      }
+    ],
+    "17": [
+      {
+        "term": "pandemic",
+        "score": 0.039247
+      },
+      {
+        "term": "covid",
+        "score": 0.036578
+      },
+      {
+        "term": "online",
+        "score": 0.033715
+      },
+      {
+        "term": "face",
+        "score": 0.020555
+      },
+      {
+        "term": "remote",
+        "score": 0.01995
+      },
+      {
+        "term": "course",
+        "score": 0.01533
+      },
+      {
+        "term": "learning",
+        "score": 0.015097
+      },
+      {
+        "term": "teaching",
+        "score": 0.014685
+      },
+      {
+        "term": "laboratory",
+        "score": 0.01309
+      },
+      {
+        "term": "chemistry",
+        "score": 0.012506
+      }
+    ],
+    "18": [
+      {
+        "term": "learning",
+        "score": 0.015941
+      },
+      {
+        "term": "student",
+        "score": 0.015597
+      },
+      {
+        "term": "course",
+        "score": 0.014611
+      },
+      {
+        "term": "performance",
+        "score": 0.012911
+      },
+      {
+        "term": "flipped",
+        "score": 0.012463
+      },
+      {
+        "term": "students",
+        "score": 0.011955
+      },
+      {
+        "term": "instructors",
+        "score": 0.011658
+      },
+      {
+        "term": "exam",
+        "score": 0.011476
+      },
+      {
+        "term": "active",
+        "score": 0.011258
+      },
+      {
+        "term": "assessment",
+        "score": 0.010636
+      }
+    ],
+    "19": [
+      {
+        "term": "biology",
+        "score": 0.03734
+      },
+      {
+        "term": "evolution",
+        "score": 0.022269
+      },
+      {
+        "term": "plant",
+        "score": 0.016807
+      },
+      {
+        "term": "knowledge",
+        "score": 0.012826
+      },
+      {
+        "term": "teachers",
+        "score": 0.012735
+      },
+      {
+        "term": "plants",
+        "score": 0.011956
+      },
+      {
+        "term": "biological",
+        "score": 0.011829
+      },
+      {
+        "term": "genetics",
+        "score": 0.011358
+      },
+      {
+        "term": "students",
+        "score": 0.010407
+      },
+      {
+        "term": "species",
+        "score": 0.010175
+      }
+    ]
+  },
+  "sizes": {
+    "0": 153,
+    "1": 791,
+    "2": 482,
+    "3": 824,
+    "4": 937,
+    "5": 1241,
+    "6": 728,
+    "7": 352,
+    "8": 1113,
+    "9": 491,
+    "10": 1334,
+    "11": 566,
+    "12": 920,
+    "13": 945,
+    "14": 645,
+    "15": 504,
+    "16": 635,
+    "17": 505,
+    "18": 633,
+    "19": 534
+  }
+}

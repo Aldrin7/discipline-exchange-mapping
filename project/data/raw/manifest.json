@@ -1,0 +1,296 @@
+{
+  "from_date": "2019-01-01",
+  "to_date": "2026-12-31",
+  "per_page": 200,
+  "endpoint": "https://api.openalex.org/works",
+  "journals": [
+    {
+      "slug": "diser",
+      "issn": "2662-2300",
+      "openalex_source_id": "S3034864385",
+      "display_name": "Disciplinary and Interdisciplinary Science Education Research",
+      "tag": "bridge",
+      "works": 177,
+      "by_year": {
+        "2019": 16,
+        "2020": 11,
+        "2021": 11,
+        "2022": 27,
+        "2023": 23,
+        "2024": 29,
+        "2025": 28,
+        "2026": 32
+      },
+      "file": "diser.jsonl"
+    },
+    {
+      "slug": "science_education",
+      "issn": "0036-8326",
+      "openalex_source_id": "S161883588",
+      "display_name": "Science Education",
+      "tag": "general",
+      "works": 881,
+      "by_year": {
+        "2019": 73,
+        "2020": 246,
+        "2021": 99,
+        "2022": 101,
+        "2023": 72,
+        "2024": 87,
+        "2025": 119,
+        "2026": 84
+      },
+      "file": "science_education.jsonl"
+    },
+    {
+      "slug": "jrst",
+      "issn": "0022-4308",
+      "openalex_source_id": "S171036940",
+      "display_name": "Journal of Research in Science Teaching",
+      "tag": "general",
+      "works": 657,
+      "by_year": {
+        "2019": 89,
+        "2020": 72,
+        "2021": 77,
+        "2022": 112,
+        "2023": 88,
+        "2024": 107,
+        "2025": 64,
+        "2026": 48
+      },
+      "file": "jrst.jsonl"
+    },
+    {
+      "slug": "ijse",
+      "issn": "0950-0693",
+      "openalex_source_id": "S54332258",
+      "display_name": "International Journal of Science Education",
+      "tag": "general",
+      "works": 1106,
+      "by_year": {
+        "2019": 124,
+        "2020": 138,
+        "2021": 143,
+        "2022": 130,
+        "2023": 127,
+        "2024": 183,
+        "2025": 138,
+        "2026": 123
+      },
+      "file": "ijse.jsonl"
+    },
+    {
+      "slug": "rse",
+      "issn": "0157-244X",
+      "openalex_source_id": "S52057175",
+      "display_name": "Research in Science Education",
+      "tag": "general",
+      "works": 578,
+      "by_year": {
+        "2019": 103,
+        "2020": 66,
+        "2021": 60,
+        "2022": 61,
+        "2023": 56,
+        "2024": 73,
+        "2025": 88,
+        "2026": 71
+      },
+      "file": "rse.jsonl"
+    },
+    {
+      "slug": "sse",
+      "issn": "0305-7267",
+      "openalex_source_id": "S39205391",
+      "display_name": "Studies in Science Education",
+      "tag": "general",
+      "works": 73,
+      "by_year": {
+        "2019": 6,
+        "2020": 14,
+        "2021": 11,
+        "2022": 10,
+        "2023": 5,
+        "2024": 12,
+        "2025": 10,
+        "2026": 5
+      },
+      "file": "sse.jsonl"
+    },
+    {
+      "slug": "jbe",
+      "issn": "0021-9266",
+      "openalex_source_id": "S185954893",
+      "display_name": "Journal of Biological Education",
+      "tag": "biology",
+      "works": 469,
+      "by_year": {
+        "2019": 69,
+        "2020": 57,
+        "2021": 69,
+        "2022": 80,
+        "2023": 44,
+        "2024": 53,
+        "2025": 49,
+        "2026": 48
+      },
+      "file": "jbe.jsonl"
+    },
+    {
+      "slug": "cerp",
+      "issn": "1756-1108",
+      "openalex_source_id": "S165966090",
+      "display_name": "Chemistry Education Research and Practice",
+      "tag": "chemistry",
+      "works": 655,
+      "by_year": {
+        "2019": 79,
+        "2020": 81,
+        "2021": 75,
+        "2022": 84,
+        "2023": 82,
+        "2024": 84,
+        "2025": 85,
+        "2026": 85
+      },
+      "file": "cerp.jsonl"
+    },
+    {
+      "slug": "jce",
+      "issn": "0021-9584",
+      "openalex_source_id": "S105208853",
+      "display_name": "Journal of Chemical Education",
+      "tag": "chemistry",
+      "works": 5044,
+      "by_year": {
+        "2019": 513,
+        "2020": 746,
+        "2021": 562,
+        "2022": 535,
+        "2023": 616,
+        "2024": 703,
+        "2025": 684,
+        "2026": 685
+      },
+      "file": "jce.jsonl"
+    },
+    {
+      "slug": "prper",
+      "issn": "2469-9896",
+      "openalex_source_id": "S4210190682",
+      "display_name": "Physical Review Physics Education Research",
+      "tag": "physics",
+      "works": 916,
+      "by_year": {
+        "2019": 103,
+        "2020": 117,
+        "2021": 109,
+        "2022": 104,
+        "2023": 123,
+        "2024": 117,
+        "2025": 143,
+        "2026": 100
+      },
+      "file": "prper.jsonl"
+    },
+    {
+      "slug": "physed",
+      "issn": "0031-9120",
+      "openalex_source_id": "S43510877",
+      "display_name": "Physics Education",
+      "tag": "physics",
+      "works": 1898,
+      "by_year": {
+        "2019": 215,
+        "2020": 227,
+        "2021": 258,
+        "2022": 223,
+        "2023": 179,
+        "2024": 261,
+        "2025": 257,
+        "2026": 278
+      },
+      "file": "physed.jsonl"
+    },
+    {
+      "slug": "jge",
+      "issn": "1089-9995",
+      "openalex_source_id": "S2765076859",
+      "display_name": "Journal of Geoscience Education",
+      "tag": "geoscience",
+      "works": 324,
+      "by_year": {
+        "2019": 58,
+        "2020": 30,
+        "2021": 51,
+        "2022": 38,
+        "2023": 42,
+        "2024": 37,
+        "2025": 37,
+        "2026": 31
+      },
+      "file": "jge.jsonl"
+    },
+    {
+      "slug": "jee",
+      "issn": "1069-4730",
+      "openalex_source_id": "S73400788",
+      "display_name": "Journal of Engineering Education",
+      "tag": "engineering",
+      "works": 486,
+      "by_year": {
+        "2019": 59,
+        "2020": 60,
+        "2021": 73,
+        "2022": 58,
+        "2023": 79,
+        "2024": 55,
+        "2025": 61,
+        "2026": 41
+      },
+      "file": "jee.jsonl"
+    },
+    {
+      "slug": "ejee",
+      "issn": "0304-3797",
+      "openalex_source_id": "S63018980",
+      "display_name": "European Journal of Engineering Education",
+      "tag": "engineering",
+      "works": 573,
+      "by_year": {
+        "2019": 53,
+        "2020": 45,
+        "2021": 56,
+        "2022": 75,
+        "2023": 72,
+        "2024": 72,
+        "2025": 102,
+        "2026": 98
+      },
+      "file": "ejee.jsonl"
+    },
+    {
+      "slug": "ijsted",
+      "issn": "2196-7822",
+      "openalex_source_id": "S2738571837",
+      "display_name": "International Journal of STEM Education",
+      "tag": "interdisciplinary",
+      "works": 496,
+      "by_year": {
+        "2019": 44,
+        "2020": 59,
+        "2021": 59,
+        "2022": 73,
+        "2023": 69,
+        "2024": 61,
+        "2025": 68,
+        "2026": 63
+      },
+      "file": "ijsted.jsonl"
+    }
+  ],
+  "total_works": 14333,
+  "api_calls": 92,
+  "api_cost_usd": 0.0079
+}

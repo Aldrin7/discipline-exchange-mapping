@@ -1,0 +1,54 @@
+# Environment variables and secrets
+.env
+*.env
+.env.*
+
+# API keys (never commit)
+KAGGLE_KEY*
+*kaggle*key*
+
+# Prompt collections and AI artifacts
+Prompt collection/
+*prompts*/
+prompt_*.md
+prompt_*.txt
+
+# Temp scripts
+check_patterns.py
+check_text.py
+fix_tag.py
+check_results.txt
+fix_*.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+.eggs/
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.idx
+*.ind
+*.ilg
+*.synctex.gz

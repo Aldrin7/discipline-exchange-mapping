@@ -1,0 +1,1560 @@
+{
+ "meta": {
+  "seed": 20261016,
+  "n_works": 14333,
+  "n_edges_internal": 50965
+ },
+ "deposit_coverage": {
+  "cerp": {
+   "n": 655,
+   "with_refs": 543,
+   "coverage": 0.829,
+   "wilson95": [
+    0.7983,
+    0.8559
+   ],
+   "median_n_refs_with": 52.0,
+   "n_no_refs": 112
+  },
+  "diser": {
+   "n": 177,
+   "with_refs": 170,
+   "coverage": 0.9605,
+   "wilson95": [
+    0.9206,
+    0.9807
+   ],
+   "median_n_refs_with": 58.0,
+   "n_no_refs": 7
+  },
+  "ejee": {
+   "n": 573,
+   "with_refs": 565,
+   "coverage": 0.986,
+   "wilson95": [
+    0.9727,
+    0.9929
+   ],
+   "median_n_refs_with": 51.0,
+   "n_no_refs": 8
+  },
+  "ijse": {
+   "n": 1106,
+   "with_refs": 1085,
+   "coverage": 0.981,
+   "wilson95": [
+    0.9711,
+    0.9875
+   ],
+   "median_n_refs_with": 51.0,
+   "n_no_refs": 21
+  },
+  "ijsted": {
+   "n": 496,
+   "with_refs": 494,
+   "coverage": 0.996,
+   "wilson95": [
+    0.9854,
+    0.9989
+   ],
+   "median_n_refs_with": 70.0,
+   "n_no_refs": 2
+  },
+  "jbe": {
+   "n": 469,
+   "with_refs": 457,
+   "coverage": 0.9744,
+   "wilson95": [
+    0.9558,
+    0.9853
+   ],
+   "median_n_refs_with": 38.0,
+   "n_no_refs": 12
+  },
+  "jce": {
+   "n": 5044,
+   "with_refs": 4816,
+   "coverage": 0.9548,
+   "wilson95": [
+    0.9487,
+    0.9602
+   ],
+   "median_n_refs_with": 28.0,
+   "n_no_refs": 228
+  },
+  "jee": {
+   "n": 486,
+   "with_refs": 381,
+   "coverage": 0.784,
+   "wilson95": [
+    0.7452,
+    0.8182
+   ],
+   "median_n_refs_with": 66.0,
+   "n_no_refs": 105
+  },
+  "jge": {
+   "n": 324,
+   "with_refs": 304,
+   "coverage": 0.9383,
+   "wilson95": [
+    0.9066,
+    0.9597
+   ],
+   "median_n_refs_with": 48.0,
+   "n_no_refs": 20
+  },
+  "jrst": {
+   "n": 657,
+   "with_refs": 501,
+   "coverage": 0.7626,
+   "wilson95": [
+    0.7286,
+    0.7935
+   ],
+   "median_n_refs_with": 74.0,
+   "n_no_refs": 156
+  },
+  "physed": {
+   "n": 1898,
+   "with_refs": 1712,
+   "coverage": 0.902,
+   "wilson95": [
+    0.8878,
+    0.9146
+   ],
+   "median_n_refs_with": 9.0,
+   "n_no_refs": 186
+  },
+  "prper": {
+   "n": 916,
+   "with_refs": 881,
+   "coverage": 0.9618,
+   "wilson95": [
+    0.9473,
+    0.9724
+   ],
+   "median_n_refs_with": 46.0,
+   "n_no_refs": 35
+  },
+  "rse": {
+   "n": 578,
+   "with_refs": 556,
+   "coverage": 0.9619,
+   "wilson95": [
+    0.943,
+    0.9747
+   ],
+   "median_n_refs_with": 48.0,
+   "n_no_refs": 22
+  },
+  "science_education": {
+   "n": 881,
+   "with_refs": 538,
+   "coverage": 0.6107,
+   "wilson95": [
+    0.5781,
+    0.6423
+   ],
+   "median_n_refs_with": 67.0,
+   "n_no_refs": 343
+  },
+  "sse": {
+   "n": 73,
+   "with_refs": 70,
+   "coverage": 0.9589,
+   "wilson95": [
+    0.886,
+    0.9859
+   ],
+   "median_n_refs_with": 102.0,
+   "n_no_refs": 3
+  }
+ },
+ "journal_metrics": {
+  "cerp": {
+   "out": 3686,
+   "in": 3530,
+   "cross_tag": 0.1717,
+   "same_tag": 3053.0,
+   "EI_out_tag": -0.6565,
+   "RS_simpson": 0.2983,
+   "RS_dist": 0.2621,
+   "tag_props": {
+    "biology": 0.0016,
+    "bridge": 0.0035,
+    "chemistry": 0.8283,
+    "engineering": 0.0038,
+    "general": 0.121,
+    "geoscience": 0.0008,
+    "interdisciplinary": 0.0279,
+    "physics": 0.013
+   },
+   "entropy_norm_15": 0.5099,
+   "entropy_norm_8": 0.3008
+  },
+  "diser": {
+   "out": 546,
+   "in": 431,
+   "cross_tag": 0.8407,
+   "same_tag": 87.0,
+   "EI_out_tag": 0.6813,
+   "RS_simpson": 0.6572,
+   "RS_dist": 0.357,
+   "tag_props": {
+    "biology": 0.011,
+    "bridge": 0.1593,
+    "chemistry": 0.1081,
+    "engineering": 0.0092,
+    "general": 0.5385,
+    "geoscience": 0.0183,
+    "interdisciplinary": 0.1172,
+    "physics": 0.0385
+   },
+   "entropy_norm_15": 0.8595,
+   "entropy_norm_8": 0.6775
+  },
+  "ejee": {
+   "out": 1394,
+   "in": 1030,
+   "cross_tag": 0.1284,
+   "same_tag": 1215.0,
+   "EI_out_tag": -0.7432,
+   "RS_simpson": 0.2351,
+   "RS_dist": 0.1676,
+   "tag_props": {
+    "bridge": 0.0007,
+    "chemistry": 0.0244,
+    "engineering": 0.8716,
+    "general": 0.0344,
+    "geoscience": 0.0029,
+    "interdisciplinary": 0.0581,
+    "physics": 0.0079
+   },
+   "entropy_norm_15": 0.4344,
+   "entropy_norm_8": 0.2654
+  },
+  "ijse": {
+   "out": 2975,
+   "in": 2767,
+   "cross_tag": 0.2588,
+   "same_tag": 2205.0,
+   "EI_out_tag": -0.4824,
+   "RS_simpson": 0.4333,
+   "RS_dist": 0.3171,
+   "tag_props": {
+    "biology": 0.0208,
+    "bridge": 0.0225,
+    "chemistry": 0.1082,
+    "engineering": 0.004,
+    "general": 0.7412,
+    "geoscience": 0.0071,
+    "interdisciplinary": 0.0477,
+    "physics": 0.0484
+   },
+   "entropy_norm_15": 0.7645,
+   "entropy_norm_8": 0.4702
+  },
+  "ijsted": {
+   "out": 2087,
+   "in": 2391,
+   "cross_tag": 0.4073,
+   "same_tag": 1237.0,
+   "EI_out_tag": -0.1854,
+   "RS_simpson": 0.5955,
+   "RS_dist": 0.3851,
+   "tag_props": {
+    "biology": 0.0038,
+    "bridge": 0.0105,
+    "chemistry": 0.0479,
+    "engineering": 0.0733,
+    "general": 0.2041,
+    "geoscience": 0.0067,
+    "interdisciplinary": 0.5927,
+    "physics": 0.0609
+   },
+   "entropy_norm_15": 0.5999,
+   "entropy_norm_8": 0.5986
+  },
+  "jbe": {
+   "out": 653,
+   "in": 508,
+   "cross_tag": 0.5467,
+   "same_tag": 296.0,
+   "EI_out_tag": 0.0934,
+   "RS_simpson": 0.6171,
+   "RS_dist": 0.4569,
+   "tag_props": {
+    "biology": 0.4533,
+    "bridge": 0.0138,
+    "chemistry": 0.075,
+    "engineering": 0.0031,
+    "general": 0.4135,
+    "geoscience": 0.0061,
+    "interdisciplinary": 0.0168,
+    "physics": 0.0184
+   },
+   "entropy_norm_15": 0.6504,
+   "entropy_norm_8": 0.5619
+  },
+  "jce": {
+   "out": 24980,
+   "in": 24428,
+   "cross_tag": 0.0483,
+   "same_tag": 23774.0,
+   "EI_out_tag": -0.9034,
+   "RS_simpson": 0.0934,
+   "RS_dist": 0.0834,
+   "tag_props": {
+    "biology": 0.0017,
+    "bridge": 0.0018,
+    "chemistry": 0.9517,
+    "engineering": 0.0027,
+    "general": 0.0255,
+    "geoscience": 0.0005,
+    "interdisciplinary": 0.0094,
+    "physics": 0.0066
+   },
+   "entropy_norm_15": 0.2045,
+   "entropy_norm_8": 0.125
+  },
+  "jee": {
+   "out": 1229,
+   "in": 1549,
+   "cross_tag": 0.1766,
+   "same_tag": 1012.0,
+   "EI_out_tag": -0.6469,
+   "RS_simpson": 0.3112,
+   "RS_dist": 0.2275,
+   "tag_props": {
+    "bridge": 0.0008,
+    "chemistry": 0.0187,
+    "engineering": 0.8234,
+    "general": 0.0789,
+    "geoscience": 0.0041,
+    "interdisciplinary": 0.0635,
+    "physics": 0.0106
+   },
+   "entropy_norm_15": 0.4129,
+   "entropy_norm_8": 0.33
+  },
+  "jge": {
+   "out": 705,
+   "in": 656,
+   "cross_tag": 0.2255,
+   "same_tag": 546.0,
+   "EI_out_tag": -0.5489,
+   "RS_simpson": 0.3854,
+   "RS_dist": 0.3297,
+   "tag_props": {
+    "biology": 0.0071,
+    "bridge": 0.0128,
+    "chemistry": 0.0426,
+    "engineering": 0.0057,
+    "general": 0.1064,
+    "geoscience": 0.7745,
+    "interdisciplinary": 0.0326,
+    "physics": 0.0184
+   },
+   "entropy_norm_15": 0.3807,
+   "entropy_norm_8": 0.4213
+  },
+  "jrst": {
+   "out": 2188,
+   "in": 2929,
+   "cross_tag": 0.1645,
+   "same_tag": 1828.0,
+   "EI_out_tag": -0.6709,
+   "RS_simpson": 0.2962,
+   "RS_dist": 0.2,
+   "tag_props": {
+    "biology": 0.0037,
+    "bridge": 0.0224,
+    "chemistry": 0.0516,
+    "engineering": 0.0137,
+    "general": 0.8355,
+    "geoscience": 0.0032,
+    "interdisciplinary": 0.037,
+    "physics": 0.0329
+   },
+   "entropy_norm_15": 0.6653,
+   "entropy_norm_8": 0.3464
+  },
+  "physed": {
+   "out": 2023,
+   "in": 1690,
+   "cross_tag": 0.1078,
+   "same_tag": 1805.0,
+   "EI_out_tag": -0.7845,
+   "RS_simpson": 0.1996,
+   "RS_dist": 0.1759,
+   "tag_props": {
+    "biology": 0.0005,
+    "bridge": 0.0084,
+    "chemistry": 0.0306,
+    "engineering": 0.002,
+    "general": 0.0568,
+    "geoscience": 0.001,
+    "interdisciplinary": 0.0084,
+    "physics": 0.8922
+   },
+   "entropy_norm_15": 0.3746,
+   "entropy_norm_8": 0.2283
+  },
+  "prper": {
+   "out": 4381,
+   "in": 4630,
+   "cross_tag": 0.1538,
+   "same_tag": 3707.0,
+   "EI_out_tag": -0.6923,
+   "RS_simpson": 0.274,
+   "RS_dist": 0.2378,
+   "tag_props": {
+    "biology": 0.0002,
+    "bridge": 0.0087,
+    "chemistry": 0.0205,
+    "engineering": 0.0046,
+    "general": 0.094,
+    "geoscience": 0.0009,
+    "interdisciplinary": 0.0249,
+    "physics": 0.8462
+   },
+   "entropy_norm_15": 0.3364,
+   "entropy_norm_8": 0.2931
+  },
+  "rse": {
+   "out": 1456,
+   "in": 1267,
+   "cross_tag": 0.2624,
+   "same_tag": 1074.0,
+   "EI_out_tag": -0.4753,
+   "RS_simpson": 0.4419,
+   "RS_dist": 0.301,
+   "tag_props": {
+    "biology": 0.0288,
+    "bridge": 0.0288,
+    "chemistry": 0.0694,
+    "engineering": 0.0089,
+    "general": 0.7376,
+    "geoscience": 0.0055,
+    "interdisciplinary": 0.068,
+    "physics": 0.0529
+   },
+   "entropy_norm_15": 0.8027,
+   "entropy_norm_8": 0.492
+  },
+  "science_education": {
+   "out": 2314,
+   "in": 2665,
+   "cross_tag": 0.1521,
+   "same_tag": 1962.0,
+   "EI_out_tag": -0.6958,
+   "RS_simpson": 0.276,
+   "RS_dist": 0.1962,
+   "tag_props": {
+    "biology": 0.0065,
+    "bridge": 0.0117,
+    "chemistry": 0.0467,
+    "engineering": 0.0108,
+    "general": 0.8479,
+    "geoscience": 0.0039,
+    "interdisciplinary": 0.038,
+    "physics": 0.0346
+   },
+   "entropy_norm_15": 0.6429,
+   "entropy_norm_8": 0.3264
+  },
+  "sse": {
+   "out": 348,
+   "in": 494,
+   "cross_tag": 0.3305,
+   "same_tag": 233.0,
+   "EI_out_tag": -0.3391,
+   "RS_simpson": 0.5272,
+   "RS_dist": 0.4013,
+   "tag_props": {
+    "biology": 0.0431,
+    "bridge": 0.0144,
+    "chemistry": 0.1149,
+    "engineering": 0.0057,
+    "general": 0.6695,
+    "geoscience": 0.0201,
+    "interdisciplinary": 0.0632,
+    "physics": 0.069
+   },
+   "entropy_norm_15": 0.8576,
+   "entropy_norm_8": 0.5679
+  }
+ },
+ "table3_betweenness_specs": {
+  "by_spec": {
+   "primary": {
+    "diser": {
+     "betweenness": 0.0,
+     "RS_simpson": 0.6572,
+     "RS_dist": 0.357
+    },
+    "jce": {
+     "betweenness": 0.1429,
+     "RS_simpson": 0.0934,
+     "RS_dist": 0.0834
+    }
+   },
+   "unweighted_directed": {
+    "diser": {
+     "betweenness": 0.0018,
+     "RS_simpson": 0.6572,
+     "RS_dist": 0.357
+    },
+    "jce": {
+     "betweenness": 0.0018,
+     "RS_simpson": 0.0934,
+     "RS_dist": 0.0834
+    }
+   },
+   "weighted_sym": {
+    "diser": {
+     "betweenness": 0.0,
+     "RS_simpson": 0.6943,
+     "RS_dist": 0.4027
+    },
+    "jce": {
+     "betweenness": 0.1429,
+     "RS_simpson": 0.0761,
+     "RS_dist": 0.0681
+    }
+   },
+   "unweighted_undirected": {
+    "diser": {
+     "betweenness": 0.0,
+     "RS_simpson": 0.6943,
+     "RS_dist": 0.4027
+    },
+    "jce": {
+     "betweenness": 0.0,
+     "RS_simpson": 0.0761,
+     "RS_dist": 0.0681
+    }
+   }
+  },
+  "spearman_vs_primary": {
+   "primary": 1.0,
+   "unweighted_directed": 0.3246,
+   "weighted_sym": 0.9874,
+   "unweighted_undirected": NaN
+  },
+  "ranking_primary": [
+   "ijse",
+   "ijsted",
+   "jce",
+   "prper",
+   "jrst",
+   "jee",
+   "ejee",
+   "diser",
+   "jbe",
+   "cerp",
+   "jge",
+   "physed",
+   "rse",
+   "science_education",
+   "sse"
+  ]
+ },
+ "table5_schemes": {
+  "rows": {
+   "micro": {
+    "aggregate_cross_tag": 0.136,
+    "DISER_cross_tag": 0.8407,
+    "DISER_betweenness": 0.0,
+    "DISER_RS_simpson": 0.6572,
+    "DISER_btw_rank": 8
+   },
+   "macro": {
+    "aggregate_cross_tag": 0.265,
+    "DISER_cross_tag": 0.8407,
+    "DISER_betweenness": 0.0,
+    "DISER_RS_simpson": 0.6572,
+    "DISER_btw_rank": 11
+   },
+   "sqrt": {
+    "aggregate_cross_tag": 0.2102,
+    "DISER_cross_tag": 0.8407,
+    "DISER_betweenness": 0.0,
+    "DISER_RS_simpson": 0.6572,
+    "DISER_btw_rank": 11
+   },
+   "MoR": {
+    "aggregate_cross_tag": 0.1854,
+    "DISER_cross_tag": 0.8407,
+    "DISER_betweenness": 0.0,
+    "DISER_RS_simpson": 0.6572,
+    "DISER_btw_rank": 11
+   }
+  },
+  "kendall_w_btw": 0.25,
+  "kendall_w_share": 0.25,
+  "mor_factors": {
+   "cerp": 1.001,
+   "diser": 0.791,
+   "ejee": 0.467,
+   "ijse": 2.506,
+   "ijsted": 0.681,
+   "jbe": 0.896,
+   "jce": 7.756,
+   "jee": 0.329,
+   "jge": 0.39,
+   "jrst": 1.596,
+   "physed": 1.217,
+   "prper": 1.241,
+   "rse": 1.189,
+   "science_education": 1.788,
+   "sse": 0.347
+  }
+ },
+ "table6_looo": {
+  "cerp": {
+   "DISER_cross_tag": 0.8324,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6298,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "ejee": {
+   "DISER_cross_tag": 0.8398,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6535,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "ijse": {
+   "DISER_cross_tag": 0.8172,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.709,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 9
+  },
+  "ijsted": {
+   "DISER_cross_tag": 0.8195,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.5778,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "jbe": {
+   "DISER_cross_tag": 0.8389,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6497,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 7
+  },
+  "jce": {
+   "DISER_cross_tag": 0.8307,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6236,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "jee": {
+   "DISER_cross_tag": 0.8401,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6548,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "jge": {
+   "DISER_cross_tag": 0.8377,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6447,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 7
+  },
+  "jrst": {
+   "DISER_cross_tag": 0.8067,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.7286,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "physed": {
+   "DISER_cross_tag": 0.8398,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6538,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "prper": {
+   "DISER_cross_tag": 0.8352,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.635,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 6
+  },
+  "rse": {
+   "DISER_cross_tag": 0.8263,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6902,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 7
+  },
+  "science_education": {
+   "DISER_cross_tag": 0.8221,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6992,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 7
+  },
+  "sse": {
+   "DISER_cross_tag": 0.8327,
+   "DISER_betweenness": 0.0,
+   "DISER_RS_simpson": 0.6761,
+   "DISER_rank_share": 1,
+   "DISER_rank_btw": 7
+  }
+ },
+ "bootstrap95": {
+  "DISER_share": {
+   "point": 0.8405,
+   "lo": 0.7979,
+   "hi": 0.8806,
+   "span": 0.0826
+  },
+  "JCE_share": {
+   "point": 0.0484,
+   "lo": 0.0443,
+   "hi": 0.0527,
+   "span": 0.0085
+  },
+  "DISER_btw": {
+   "point": 0.0,
+   "lo": 0.0,
+   "hi": 0.0,
+   "span": 0.0
+  },
+  "DISER_RS_simpson": {
+   "point": 0.6552,
+   "lo": 0.5876,
+   "hi": 0.7102,
+   "span": 0.1226
+  },
+  "DISER_RS_dist": {
+   "point": 0.3538,
+   "lo": 0.2761,
+   "hi": 0.4252,
+   "span": 0.1491
+  }
+ },
+ "temporal": {
+  "pre_2019_2021": {
+   "n_edges": 6799,
+   "DISER_share": 0.7692,
+   "JCE_share": 0.0338,
+   "macro_share": 0.2394,
+   "n_journals": 15,
+   "cluster_prev": {
+    "10": 0.1105,
+    "5": 0.0834,
+    "8": 0.0734,
+    "4": 0.0668,
+    "6": 0.0668,
+    "12": 0.0664,
+    "13": 0.0636,
+    "3": 0.0524,
+    "18": 0.0499,
+    "1": 0.0475,
+    "17": 0.0465,
+    "16": 0.0414,
+    "14": 0.0405,
+    "19": 0.0403,
+    "11": 0.0376,
+    "2": 0.0327,
+    "15": 0.0297,
+    "9": 0.0282,
+    "0": 0.0163,
+    "7": 0.0061
+   }
+  },
+  "post_2022": {
+   "n_edges": 44166,
+   "DISER_share": 0.8462,
+   "JCE_share": 0.0509,
+   "macro_share": 0.2689,
+   "n_journals": 15,
+   "cluster_prev": {
+    "5": 0.0884,
+    "10": 0.0829,
+    "8": 0.0801,
+    "13": 0.0673,
+    "4": 0.0646,
+    "12": 0.0629,
+    "3": 0.0605,
+    "1": 0.0597,
+    "14": 0.0476,
+    "16": 0.046,
+    "6": 0.0415,
+    "18": 0.0408,
+    "11": 0.0406,
+    "15": 0.0384,
+    "9": 0.0378,
+    "19": 0.0355,
+    "7": 0.0354,
+    "2": 0.0342,
+    "17": 0.0286,
+    "0": 0.0074
+   }
+  }
+ },
+ "discipline": {
+  "micro_share_offdiag": 0.136,
+  "macro_share": 0.3235,
+  "matrix": {
+   "biology": {
+    "biology": 296,
+    "bridge": 6,
+    "chemistry": 49,
+    "engineering": 0,
+    "general": 142,
+    "geoscience": 5,
+    "interdisciplinary": 8,
+    "physics": 2
+   },
+   "bridge": {
+    "biology": 9,
+    "bridge": 87,
+    "chemistry": 57,
+    "engineering": 2,
+    "general": 190,
+    "geoscience": 9,
+    "interdisciplinary": 22,
+    "physics": 55
+   },
+   "chemistry": {
+    "biology": 49,
+    "bridge": 59,
+    "chemistry": 26827,
+    "engineering": 57,
+    "general": 684,
+    "geoscience": 30,
+    "interdisciplinary": 100,
+    "physics": 152
+   },
+   "engineering": {
+    "biology": 2,
+    "bridge": 5,
+    "chemistry": 82,
+    "engineering": 2227,
+    "general": 82,
+    "geoscience": 4,
+    "interdisciplinary": 153,
+    "physics": 24
+   },
+   "general": {
+    "biology": 270,
+    "bridge": 294,
+    "chemistry": 1083,
+    "engineering": 145,
+    "general": 7302,
+    "geoscience": 75,
+    "interdisciplinary": 426,
+    "physics": 527
+   },
+   "geoscience": {
+    "biology": 4,
+    "bridge": 10,
+    "chemistry": 15,
+    "engineering": 9,
+    "general": 52,
+    "geoscience": 546,
+    "interdisciplinary": 14,
+    "physics": 6
+   },
+   "interdisciplinary": {
+    "biology": 11,
+    "bridge": 64,
+    "chemistry": 339,
+    "engineering": 159,
+    "general": 432,
+    "geoscience": 23,
+    "interdisciplinary": 1237,
+    "physics": 126
+   },
+   "physics": {
+    "biology": 12,
+    "bridge": 21,
+    "chemistry": 214,
+    "engineering": 24,
+    "general": 397,
+    "geoscience": 13,
+    "interdisciplinary": 127,
+    "physics": 5512
+   }
+  }
+ },
+ "table2_clusters": {
+  "0": {
+   "size": 153,
+   "entropy_ln": -0.0,
+   "cross_tag_share": 0.0,
+   "C_v": 0.9683,
+   "terms10": [
+    "score",
+    "article",
+    "calculated",
+    "text",
+    "share",
+    "full",
+    "alerts",
+    "views",
+    "published",
+    "find"
+   ]
+  },
+  "1": {
+   "size": 791,
+   "entropy_ln": 2.2716,
+   "cross_tag_share": 0.2751,
+   "C_v": 0.6735,
+   "terms10": [
+    "stem",
+    "women",
+    "gender",
+    "identity",
+    "engineering",
+    "career",
+    "physics",
+    "belonging",
+    "self",
+    "female"
+   ]
+  },
+  "2": {
+   "size": 482,
+   "entropy_ln": 2.3087,
+   "cross_tag_share": 0.2271,
+   "C_v": 0.4384,
+   "terms10": [
+    "science",
+    "children",
+    "representations",
+    "visual",
+    "learning",
+    "drawing",
+    "scientific",
+    "conceptual",
+    "reasoning",
+    "students"
+   ]
+  },
+  "3": {
+   "size": 824,
+   "entropy_ln": 1.4044,
+   "cross_tag_share": 0.1954,
+   "C_v": 0.4556,
+   "terms10": [
+    "engineering",
+    "design",
+    "education",
+    "engineers",
+    "learning",
+    "research",
+    "students",
+    "study",
+    "stem",
+    "skills"
+   ]
+  },
+  "4": {
+   "size": 937,
+   "entropy_ln": 0.4598,
+   "cross_tag_share": 0.0757,
+   "C_v": 0.6132,
+   "terms10": [
+    "chemistry",
+    "course",
+    "laboratory",
+    "safety",
+    "chemical",
+    "green",
+    "students",
+    "learning",
+    "organic",
+    "skills"
+   ]
+  },
+  "5": {
+   "size": 1241,
+   "entropy_ln": 0.3543,
+   "cross_tag_share": 0.0113,
+   "C_v": 0.7022,
+   "terms10": [
+    "experiment",
+    "laboratory",
+    "materials",
+    "water",
+    "chemistry",
+    "experiments",
+    "chemical",
+    "reaction",
+    "students",
+    "undergraduate"
+   ]
+  },
+  "6": {
+   "size": 728,
+   "entropy_ln": 1.9088,
+   "cross_tag_share": 0.0465,
+   "C_v": 0.3553,
+   "terms10": [
+    "information",
+    "orcid",
+    "keywords",
+    "org",
+    "editorial",
+    "journal",
+    "graphical",
+    "masthead",
+    "available",
+    "list"
+   ]
+  },
+  "7": {
+   "size": 352,
+   "entropy_ln": 2.2371,
+   "cross_tag_share": 0.1663,
+   "C_v": 0.6679,
+   "terms10": [
+    "chatgpt",
+    "genai",
+    "generative",
+    "artificial",
+    "intelligence",
+    "learning",
+    "education",
+    "science",
+    "tools",
+    "machine"
+   ]
+  },
+  "8": {
+   "size": 1113,
+   "entropy_ln": 0.1818,
+   "cross_tag_share": 0.0115,
+   "C_v": 0.8146,
+   "terms10": [
+    "organic",
+    "reaction",
+    "chemistry",
+    "nmr",
+    "laboratory",
+    "experiment",
+    "molecular",
+    "synthesis",
+    "undergraduate",
+    "chemical"
+   ]
+  },
+  "9": {
+   "size": 491,
+   "entropy_ln": 2.0818,
+   "cross_tag_share": 0.1491,
+   "C_v": 0.59,
+   "terms10": [
+    "science",
+    "stem",
+    "justice",
+    "equity",
+    "social",
+    "education",
+    "identity",
+    "teachers",
+    "community",
+    "identities"
+   ]
+  },
+  "10": {
+   "size": 1334,
+   "entropy_ln": 0.3847,
+   "cross_tag_share": 0.0402,
+   "C_v": 0.696,
+   "terms10": [
+    "motion",
+    "abstract",
+    "physics",
+    "simple",
+    "experiment",
+    "force",
+    "energy",
+    "experimental",
+    "pendulum",
+    "ball"
+   ]
+  },
+  "11": {
+   "size": 566,
+   "entropy_ln": 1.8931,
+   "cross_tag_share": 0.2,
+   "C_v": 0.5336,
+   "terms10": [
+    "climate",
+    "geoscience",
+    "change",
+    "environmental",
+    "science",
+    "earth",
+    "field",
+    "knowledge",
+    "geosciences",
+    "education"
+   ]
+  },
+  "12": {
+   "size": 920,
+   "entropy_ln": 1.977,
+   "cross_tag_share": 0.1917,
+   "C_v": 0.6394,
+   "terms10": [
+    "teachers",
+    "science",
+    "teacher",
+    "scientific",
+    "nos",
+    "argumentation",
+    "epistemic",
+    "knowledge",
+    "inquiry",
+    "practices"
+   ]
+  },
+  "13": {
+   "size": 945,
+   "entropy_ln": 1.2594,
+   "cross_tag_share": 0.1699,
+   "C_v": 0.5772,
+   "terms10": [
+    "physics",
+    "quantum",
+    "conceptual",
+    "students",
+    "mechanics",
+    "understanding",
+    "problem",
+    "reasoning",
+    "concepts",
+    "introductory"
+   ]
+  },
+  "14": {
+   "size": 645,
+   "entropy_ln": 1.2033,
+   "cross_tag_share": 0.1876,
+   "C_v": 0.4739,
+   "terms10": [
+    "chemistry",
+    "reasoning",
+    "chemical",
+    "students",
+    "representations",
+    "conceptual",
+    "thinking",
+    "organic",
+    "knowledge",
+    "learning"
+   ]
+  },
+  "15": {
+   "size": 504,
+   "entropy_ln": 0.549,
+   "cross_tag_share": 0.047,
+   "C_v": 0.5773,
+   "terms10": [
+    "game",
+    "chemistry",
+    "learning",
+    "virtual",
+    "laboratory",
+    "activity",
+    "students",
+    "digital",
+    "chemical",
+    "escape"
+   ]
+  },
+  "16": {
+   "size": 635,
+   "entropy_ln": 2.0452,
+   "cross_tag_share": 0.2576,
+   "C_v": 0.518,
+   "terms10": [
+    "science",
+    "stem",
+    "teachers",
+    "self",
+    "efficacy",
+    "achievement",
+    "school",
+    "teacher",
+    "learning",
+    "interest"
+   ]
+  },
+  "17": {
+   "size": 505,
+   "entropy_ln": 1.3579,
+   "cross_tag_share": 0.0605,
+   "C_v": 0.6349,
+   "terms10": [
+    "pandemic",
+    "covid",
+    "online",
+    "face",
+    "remote",
+    "course",
+    "learning",
+    "teaching",
+    "laboratory",
+    "chemistry"
+   ]
+  },
+  "18": {
+   "size": 633,
+   "entropy_ln": 2.1895,
+   "cross_tag_share": 0.1902,
+   "C_v": 0.5561,
+   "terms10": [
+    "learning",
+    "student",
+    "course",
+    "performance",
+    "flipped",
+    "students",
+    "instructors",
+    "exam",
+    "active",
+    "assessment"
+   ]
+  },
+  "19": {
+   "size": 534,
+   "entropy_ln": 1.5341,
+   "cross_tag_share": 0.3644,
+   "C_v": 0.5665,
+   "terms10": [
+    "biology",
+    "evolution",
+    "plant",
+    "knowledge",
+    "teachers",
+    "plants",
+    "biological",
+    "genetics",
+    "students",
+    "species"
+   ]
+  }
+ },
+ "lda": {
+  "C_v_mean": 0.4824,
+  "C_v_per_topic": [
+   0.5036,
+   0.3263,
+   0.3902,
+   0.2974,
+   0.7245,
+   0.5335,
+   0.3776,
+   0.3529,
+   0.6815,
+   0.4044,
+   0.1538,
+   0.9885,
+   0.3821,
+   0.4049,
+   0.3609,
+   0.447,
+   0.461,
+   0.3084,
+   0.8087,
+   0.7409
+  ],
+  "topic_entropy": [
+   2.3259,
+   2.2527,
+   2.3138,
+   2.3228,
+   2.0427,
+   2.1983,
+   2.26,
+   2.3055,
+   2.039,
+   2.4387,
+   2.2832,
+   1.7271,
+   2.305,
+   2.2548,
+   2.3286,
+   2.3163,
+   2.2618,
+   2.1682,
+   1.8439,
+   1.0362
+  ],
+  "matched_top5_bridge_overlap": 2,
+  "ARI_vs_kmeans": 0.0656,
+  "top_terms": {
+   "9": [
+    "students",
+    "science",
+    "learning",
+    "chemistry",
+    "education",
+    "study",
+    "research",
+    "student",
+    "teachers",
+    "engineering"
+   ],
+   "14": [
+    "quantum",
+    "genai",
+    "moral",
+    "analogies",
+    "multimodal",
+    "semiotic",
+    "mechanics",
+    "keywords",
+    "speech",
+    "pogil"
+   ],
+   "0": [
+    "keywords",
+    "science",
+    "education",
+    "teacher",
+    "teaching",
+    "service",
+    "plant",
+    "teachers",
+    "elementary",
+    "history"
+   ],
+   "3": [
+    "graphical",
+    "available",
+    "content",
+    "english",
+    "language",
+    "abstract",
+    "title",
+    "preparedness",
+    "filtration",
+    "revisions"
+   ],
+   "15": [
+    "pck",
+    "list",
+    "contents",
+    "relativity",
+    "einstein",
+    "india",
+    "buoyancy",
+    "curriculum",
+    "gravity",
+    "memory"
+   ]
+  },
+  "max_iter_used": 100
+ },
+ "hdbscan": {
+  "n_clusters": 18,
+  "outlier_share": 0.78,
+  "C_v_mean": 0.5942,
+  "ARI_vs_kmeans": 0.0123,
+  "outlier_journal_composition": {
+   "jce": 0.3284,
+   "physed": 0.1172,
+   "ijse": 0.0918,
+   "prper": 0.0725,
+   "science_education": 0.061,
+   "rse": 0.0496,
+   "cerp": 0.0479,
+   "ejee": 0.044,
+   "jrst": 0.0394,
+   "jbe": 0.0393,
+   "ijsted": 0.0353,
+   "jee": 0.0287,
+   "jge": 0.0242,
+   "diser": 0.0145,
+   "sse": 0.0061
+  },
+  "RSE_share_of_outliers": 0.0496
+ },
+ "field_tri": {
+  "global_sample": {
+   "n": 3000,
+   "counts": {
+    "stem": 743,
+    "social": 1889,
+    "other": 294,
+    "unresolved": 74
+   },
+   "props": {
+    "stem": 0.2477,
+    "social": 0.6297,
+    "other": 0.098
+   },
+   "wilson95": {
+    "stem": [
+     0.2325,
+     0.2634
+    ],
+    "social": [
+     0.6122,
+     0.6468
+    ],
+    "other": [
+     0.0879,
+     0.1092
+    ]
+   }
+  },
+  "api_resolved": 3537,
+  "api_unresolved": 88,
+  "citing_side_classified_share": 0.9572,
+  "cluster_divergence": {
+   "0": 0.3,
+   "1": 0.2,
+   "2": 0.2632,
+   "3": 0.2564,
+   "4": 0.45,
+   "5": 0.1538,
+   "6": 0.3421,
+   "7": 0.475,
+   "8": 0.2,
+   "9": 0.2105,
+   "10": 0.3,
+   "11": 0.1795,
+   "12": 0.1282,
+   "13": 0.225,
+   "14": 0.15,
+   "15": 0.35,
+   "16": 0.1143,
+   "17": 0.3846,
+   "18": 0.4103,
+   "19": 0.3243
+  },
+  "pearson_r_vs_internal_cross": {
+   "r": -0.2074,
+   "p": 0.38033651832862003,
+   "n_clusters": 20
+  }
+ },
+ "coverage_adjustment": {
+  "micro_raw": 0.136,
+  "micro_ipw": 0.1364,
+  "macro_ipw": 0.265,
+  "per_journal_invariant": true,
+  "topic_max_abs_delta": 0.0156,
+  "topics": {
+   "0": {
+    "raw": 0.0,
+    "ipw": 0.0,
+    "delta": 0.0
+   },
+   "1": {
+    "raw": 0.2751,
+    "ipw": 0.275,
+    "delta": -0.0001
+   },
+   "2": {
+    "raw": 0.2271,
+    "ipw": 0.2171,
+    "delta": -0.01
+   },
+   "3": {
+    "raw": 0.1954,
+    "ipw": 0.1949,
+    "delta": -0.0005
+   },
+   "4": {
+    "raw": 0.0757,
+    "ipw": 0.0763,
+    "delta": 0.0006
+   },
+   "5": {
+    "raw": 0.0113,
+    "ipw": 0.0114,
+    "delta": 0.0001
+   },
+   "6": {
+    "raw": 0.0465,
+    "ipw": 0.0464,
+    "delta": -0.0001
+   },
+   "7": {
+    "raw": 0.1663,
+    "ipw": 0.1721,
+    "delta": 0.0058
+   },
+   "8": {
+    "raw": 0.0115,
+    "ipw": 0.0117,
+    "delta": 0.0002
+   },
+   "9": {
+    "raw": 0.1491,
+    "ipw": 0.1365,
+    "delta": -0.0126
+   },
+   "10": {
+    "raw": 0.0402,
+    "ipw": 0.0401,
+    "delta": -0.0001
+   },
+   "11": {
+    "raw": 0.2,
+    "ipw": 0.1955,
+    "delta": -0.0045
+   },
+   "12": {
+    "raw": 0.1917,
+    "ipw": 0.176,
+    "delta": -0.0156
+   },
+   "13": {
+    "raw": 0.1699,
+    "ipw": 0.1707,
+    "delta": 0.0007
+   },
+   "14": {
+    "raw": 0.1876,
+    "ipw": 0.188,
+    "delta": 0.0004
+   },
+   "15": {
+    "raw": 0.047,
+    "ipw": 0.0476,
+    "delta": 0.0006
+   },
+   "16": {
+    "raw": 0.2576,
+    "ipw": 0.251,
+    "delta": -0.0066
+   },
+   "17": {
+    "raw": 0.0605,
+    "ipw": 0.0612,
+    "delta": 0.0007
+   },
+   "18": {
+    "raw": 0.1902,
+    "ipw": 0.1955,
+    "delta": 0.0052
+   },
+   "19": {
+    "raw": 0.3644,
+    "ipw": 0.3507,
+    "delta": -0.0137
+   }
+  }
+ }
+}

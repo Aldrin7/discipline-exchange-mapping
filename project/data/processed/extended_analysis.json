@@ -1,0 +1,287 @@
+{
+  "bradley_terry": {
+    "pi (raw)": {
+      "diser": 7.758018383503089e-32,
+      "science_education": 1.597828661231924e-31,
+      "jrst": 1.5576831557696664e-31,
+      "ijse": 1.3491539528004535e-31,
+      "rse": 8.763320582744879e-32,
+      "sse": 9.423084497696931e-32,
+      "jbe": 1.2915926586372564e-31,
+      "cerp": 2.23091406088023e-12,
+      "jce": 14.999999999996943,
+      "prper": 3.7934900045930216e-13,
+      "physed": 4.475093422940973e-13,
+      "jge": 4.857208139288442e-16,
+      "jee": 9.102697050041162e-28,
+      "ejee": 8.39614062527137e-28,
+      "ijsted": 9.536071265792319e-29
+    },
+    "export_influence": {
+      "diser": 5.1720122556687256e-33,
+      "science_education": 1.0652191074879492e-32,
+      "jrst": 1.0384554371797775e-32,
+      "ijse": 8.994359685336355e-33,
+      "rse": 5.8422137218299184e-33,
+      "sse": 6.282056331797953e-33,
+      "jbe": 8.610617724248374e-33,
+      "cerp": 1.4872760405868198e-13,
+      "jce": 0.999999999999796,
+      "prper": 2.5289933363953476e-14,
+      "physed": 2.983395615293982e-14,
+      "jge": 3.238138759525628e-17,
+      "jee": 6.068464700027441e-29,
+      "ejee": 5.597427083514245e-29,
+      "ijsted": 6.357380843861545e-30
+    },
+    "ranking": [
+      "jce",
+      "cerp",
+      "physed",
+      "prper",
+      "jge",
+      "jee",
+      "ejee",
+      "ijsted",
+      "science_education",
+      "jrst",
+      "ijse",
+      "jbe",
+      "sse",
+      "rse",
+      "diser"
+    ]
+  },
+  "div": {
+    "diser": {
+      "variety": 8,
+      "balance": 0.6775,
+      "disparity": 0.3719,
+      "DIV": 2.0159
+    },
+    "science_education": {
+      "variety": 8,
+      "balance": 0.3264,
+      "disparity": 0.2001,
+      "DIV": 0.5225
+    },
+    "jrst": {
+      "variety": 8,
+      "balance": 0.3464,
+      "disparity": 0.2065,
+      "DIV": 0.5724
+    },
+    "ijse": {
+      "variety": 8,
+      "balance": 0.4702,
+      "disparity": 0.3111,
+      "DIV": 1.1702
+    },
+    "rse": {
+      "variety": 8,
+      "balance": 0.492,
+      "disparity": 0.2958,
+      "DIV": 1.1643
+    },
+    "sse": {
+      "variety": 8,
+      "balance": 0.5679,
+      "disparity": 0.3859,
+      "DIV": 1.7533
+    },
+    "jbe": {
+      "variety": 8,
+      "balance": 0.5619,
+      "disparity": 0.3035,
+      "DIV": 1.3644
+    },
+    "cerp": {
+      "variety": 8,
+      "balance": 0.3008,
+      "disparity": 0.2593,
+      "DIV": 0.624
+    },
+    "jce": {
+      "variety": 8,
+      "balance": 0.125,
+      "disparity": 0.0827,
+      "DIV": 0.0827
+    },
+    "prper": {
+      "variety": 8,
+      "balance": 0.2931,
+      "disparity": 0.235,
+      "DIV": 0.5509
+    },
+    "physed": {
+      "variety": 8,
+      "balance": 0.2283,
+      "disparity": 0.1749,
+      "DIV": 0.3195
+    },
+    "jge": {
+      "variety": 8,
+      "balance": 0.4213,
+      "disparity": 0.3353,
+      "DIV": 1.13
+    },
+    "jee": {
+      "variety": 7,
+      "balance": 0.3526,
+      "disparity": 0.2721,
+      "DIV": 0.6716
+    },
+    "ejee": {
+      "variety": 7,
+      "balance": 0.2836,
+      "disparity": 0.205,
+      "DIV": 0.407
+    },
+    "ijsted": {
+      "variety": 8,
+      "balance": 0.5986,
+      "disparity": 0.4431,
+      "DIV": 2.1221
+    }
+  },
+  "missingness": {
+    "abstract": {
+      "n": 13023,
+      "share": 0.9086
+    },
+    "title_keywords": {
+      "n": 1310,
+      "share": 0.0914
+    },
+    "by_journal": {
+      "diser": {
+        "n": 177,
+        "fallback_n": 10,
+        "fallback_rate": 0.0565
+      },
+      "science_education": {
+        "n": 881,
+        "fallback_n": 302,
+        "fallback_rate": 0.3428
+      },
+      "jrst": {
+        "n": 657,
+        "fallback_n": 168,
+        "fallback_rate": 0.2557
+      },
+      "ijse": {
+        "n": 1106,
+        "fallback_n": 13,
+        "fallback_rate": 0.0118
+      },
+      "rse": {
+        "n": 578,
+        "fallback_n": 371,
+        "fallback_rate": 0.6419
+      },
+      "sse": {
+        "n": 73,
+        "fallback_n": 0,
+        "fallback_rate": 0.0
+      },
+      "jbe": {
+        "n": 469,
+        "fallback_n": 10,
+        "fallback_rate": 0.0213
+      },
+      "cerp": {
+        "n": 655,
+        "fallback_n": 26,
+        "fallback_rate": 0.0397
+      },
+      "jce": {
+        "n": 5044,
+        "fallback_n": 122,
+        "fallback_rate": 0.0242
+      },
+      "prper": {
+        "n": 916,
+        "fallback_n": 31,
+        "fallback_rate": 0.0338
+      },
+      "physed": {
+        "n": 1898,
+        "fallback_n": 124,
+        "fallback_rate": 0.0653
+      },
+      "jge": {
+        "n": 324,
+        "fallback_n": 5,
+        "fallback_rate": 0.0154
+      },
+      "jee": {
+        "n": 486,
+        "fallback_n": 112,
+        "fallback_rate": 0.2305
+      },
+      "ejee": {
+        "n": 573,
+        "fallback_n": 10,
+        "fallback_rate": 0.0175
+      },
+      "ijsted": {
+        "n": 496,
+        "fallback_n": 6,
+        "fallback_rate": 0.0121
+      }
+    },
+    "s8_ari_abstract_vs_full": 0.57
+  },
+  "yearly": {
+    "macro": {
+      "2019": 0.0741,
+      "2020": 0.1538,
+      "2021": 0.2628,
+      "2022": 0.2512,
+      "2023": 0.2541,
+      "2024": 0.2777,
+      "2025": 0.2698
+    },
+    "diser": {
+      "2019": 1.0,
+      "2020": 0.4545,
+      "2021": 0.85,
+      "2022": 0.7568,
+      "2023": 0.7966,
+      "2024": 0.866,
+      "2025": 0.837
+    },
+    "jce": {
+      "2019": 0.0184,
+      "2020": 0.0299,
+      "2021": 0.0374,
+      "2022": 0.0342,
+      "2023": 0.0405,
+      "2024": 0.0563,
+      "2025": 0.0614
+    },
+    "cluster17_prev": {
+      "2022": 0.059,
+      "2023": 0.0435,
+      "2024": 0.0279,
+      "2025": 0.0114,
+      "2019": 0.0012,
+      "2021": 0.0409,
+      "2020": 0.0884
+    },
+    "n_works": {
+      "2019": 1604.0,
+      "2022": 1711.0,
+      "2021": 1713.0,
+      "2025": 1933.0,
+      "2023": 1677.0,
+      "2024": 1934.0,
+      "2020": 1969.0
+    }
+  },
+  "figures": [
+    "fig4_yearly.png",
+    "fig5_network.png",
+    "fig6_div.png"
+  ]
+}

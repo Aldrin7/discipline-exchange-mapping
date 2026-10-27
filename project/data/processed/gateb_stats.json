@@ -1,0 +1,147 @@
+{
+  "corpus_works": 14333,
+  "year_counts": {
+    "2019": 1604,
+    "2020": 1969,
+    "2021": 1713,
+    "2022": 1711,
+    "2023": 1677,
+    "2024": 1934,
+    "2025": 1933,
+    "2026": 1792
+  },
+  "partial_year_flag": {
+    "2026": "partial through 2026-10-15 (policy P3)"
+  },
+  "text_sources": {
+    "diser": {
+      "abstract": 167,
+      "title_keywords": 10
+    },
+    "science_education": {
+      "abstract": 579,
+      "title_keywords": 302
+    },
+    "jrst": {
+      "abstract": 489,
+      "title_keywords": 168
+    },
+    "ijse": {
+      "abstract": 1093,
+      "title_keywords": 13
+    },
+    "rse": {
+      "abstract": 207,
+      "title_keywords": 371
+    },
+    "sse": {
+      "abstract": 73
+    },
+    "jbe": {
+      "abstract": 459,
+      "title_keywords": 10
+    },
+    "cerp": {
+      "abstract": 629,
+      "title_keywords": 26
+    },
+    "jce": {
+      "abstract": 4922,
+      "title_keywords": 122
+    },
+    "prper": {
+      "abstract": 885,
+      "title_keywords": 31
+    },
+    "physed": {
+      "abstract": 1774,
+      "title_keywords": 124
+    },
+    "jge": {
+      "abstract": 319,
+      "title_keywords": 5
+    },
+    "jee": {
+      "abstract": 374,
+      "title_keywords": 112
+    },
+    "ejee": {
+      "abstract": 563,
+      "title_keywords": 10
+    },
+    "ijsted": {
+      "abstract": 490,
+      "title_keywords": 6
+    }
+  },
+  "refs_total": 563289,
+  "refs_internal": 50965,
+  "refs_internal_pct": 9.05,
+  "internal_edge_rows": 50965,
+  "out_degree": {
+    "diser": 546,
+    "science_education": 2314,
+    "jrst": 2188,
+    "ijse": 2975,
+    "rse": 1456,
+    "sse": 348,
+    "jbe": 653,
+    "cerp": 3686,
+    "jce": 24980,
+    "prper": 4381,
+    "physed": 2023,
+    "jge": 705,
+    "jee": 1229,
+    "ejee": 1394,
+    "ijsted": 2087
+  },
+  "in_degree": {
+    "diser": 431,
+    "science_education": 2665,
+    "jrst": 2929,
+    "ijse": 2767,
+    "rse": 1267,
+    "sse": 494,
+    "jbe": 508,
+    "cerp": 3530,
+    "jce": 24428,
+    "prper": 4630,
+    "physed": 1690,
+    "jge": 656,
+    "jee": 1549,
+    "ejee": 1030,
+    "ijsted": 2391
+  },
+  "journal_order": [
+    "diser",
+    "science_education",
+    "jrst",
+    "ijse",
+    "rse",
+    "sse",
+    "jbe",
+    "cerp",
+    "jce",
+    "prper",
+    "physed",
+    "jge",
+    "jee",
+    "ejee",
+    "ijsted"
+  ],
+  "discipline_order": [
+    "biology",
+    "bridge",
+    "chemistry",
+    "engineering",
+    "general",
+    "geoscience",
+    "interdisciplinary",
+    "physics"
+  ],
+  "policies": {
+    "P1": "abstract if >=5 tokens else title+keywords (flagged)",
+    "P2": "internal citation edges only; external refs counted",
+    "P3": "2026 partial year flagged for rate analyses"
+  }
+}

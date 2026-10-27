@@ -1,0 +1,46 @@
+# Project-level ignores
+.env
+*.env
+
+# AI artifacts and prompt collections
+Prompt collection/
+prompts/
+prompt_*.txt
+
+# Temp scripts
+check_patterns.py
+check_text.py
+fix_tag.py
+check_results.txt
+
+# PaperReview AI outputs
+*.paperreview.*
+
+# Kilo internal config
+.kilo/
+
+# Temp data dumps
+*_dump_*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX temporary
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
