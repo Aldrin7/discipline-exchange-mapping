@@ -47,3 +47,7 @@ __pycache__/
 *.toc
 *.bbl
 *.blg
+
+# Manuscript files (local only, not on GitHub to avoid copyright issues)
+project/manuscript/
+latex_template/
