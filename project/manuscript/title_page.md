@@ -20,7 +20,7 @@ The authors declare that they have no competing interests.
 This research received no specific grant from any funding agency in the public, commercial, or not-for-profit sectors.
 
 ### 4. Authors' contributions
-[To be specified: e.g., Author 1: study design and conceptualization, data harvesting and preprocessing, citation-network construction and analysis, manuscript writing. Author 2: topic modeling and cluster interpretation, brokerage metric computation, manuscript revision. All authors read and approved the final manuscript.]
+[To be specified in the submission system; study design and conceptualization, data harvesting and preprocessing, citation-network construction and analysis, topic modeling and cluster interpretation, brokerage metric computation, topic coherence scoring, coverage-adjusted sensitivity analysis, bootstrap uncertainty quantification, temporal analysis, manuscript writing and revision.]
 
 ### 5. Acknowledgements
 The authors acknowledge the OpenAlex project for providing open bibliometric metadata, and the developers of fastembed, NumPy, and ONNX Runtime for open-source analysis tools.

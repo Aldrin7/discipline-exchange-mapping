@@ -406,10 +406,6 @@ reported in Section 4.4 (Table 7); DISER is the top broker with the highest cros
 
 We compare the pre-pandemic period (2019-2021) with the post-pandemic period (2022-2025), excluding partial 2026 data. Cross-tag shares, topic prevalence, and brokerage metrics are computed for each period and compared with bootstrap CIs. Results are reported in Section 4.7 (Table 8) and the cross-disciplinary exchange is stable.
 
-### 3.10 Ethical statement
-
-This study is a secondary analysis of public bibliometric metadata (OpenAlex), so no human or animal participants are involved, and thus no ethics approval is needed. Ethics statement: Not applicable.
-
 ## 4. Results
 
 ### 4.1 Corpus descriptives
@@ -555,6 +551,8 @@ Biology education (cluster 19) has the highest cross-tag share (0.36), followed 
 
 **Citing vs. cited direction (RQ3).** Decomposing each journal's brokerage
 metrics by direction (out = what it cites; in = who cites it):
+
+[Table 4 about here]
 
 | Journal | Cross-tag (out) | Cross-tag (in) | E-I (out) | E-I (in) | Rao-Stokes Simpson (out) | Rao-Stokes Simpson (in) |
 |----|----|----|----|----|----|----|
@@ -866,41 +864,6 @@ post-pandemic (macro 0.24 to 0.27). Limitations include reference-coverage
 differentials, RSE abstract sparsity, and moderate topic stability (mean ARI ≈ 0.50), within-system-
 only topic bridge inferences (9.05% internal references), and journal-
 level uncertainty beyond the article-level bootstrap.
-
-## Declarations
-
-**Availability of data and materials.** The corpus was harvested from
-the OpenAlex API (public, keyless with rate limits). Processed data
-(works, citation edges, cluster assignments, topic terms, run records)
-are available in the project repository at [repository URL to be
-inserted at final preparation]. The analysis scripts use only numpy,
-fastembed, and onnxruntime.
-
-**Competing interests.** The authors declare no competing interests.
-
-**Funding.** This research received no specific grant from any funding
-agency in the public, commercial, or not-for-profit sectors.
-
-**Authors' contributions.** [Double-blind: authors blinded.
-Contributions include: study design and conceptualization; data
-harvesting and preprocessing; citation-network construction and
-analysis; topic modeling and cluster interpretation; brokerage metric
-computation; topic coherence scoring; coverage-adjusted sensitivity
-analysis; bootstrap uncertainty quantification; temporal analysis;
-manuscript writing and revision.]
-
-**Acknowledgements.** [Double-blind: no identifying content. The
-authors acknowledge the OpenAlex project for providing open bibliometric
-metadata, and the developers of fastembed, NumPy, and ONNX Runtime for
-open-source analysis tools.]
-
-**Authors' information.** [Optional; not included in double-blind
-submission.]
-
-**Ethics approval.** Not applicable - secondary analysis of public
-bibliometric metadata; no human or animal participants.
-
-**Consent to publish.** Not applicable.
 
 ## List of abbreviations
 

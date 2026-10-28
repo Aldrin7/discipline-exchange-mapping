@@ -638,12 +638,6 @@ periods, excluding partial 2026 (through 15 October) from all rate
 claims. Cross-tag shares, topic prevalence, and brokerage metrics are
 computed separately for each period and compared with bootstrap CIs.
 
-\subsubsection{3.10 Ethical statement}\label{ethical-statement}
-
-This study is a secondary analysis of public bibliometric metadata
-(OpenAlex). No human or animal subjects. No ethics approval was needed
-as were involved. Ethics statement: Not applicable.
-
 \subsection{4. Results}\label{results}
 
 \subsubsection{4.1 Corpus descriptives}\label{corpus-descriptives}
@@ -942,6 +936,8 @@ share, E--I index, and Rao--Stirling (Simpson) for selected journals
 
 \textbf{Citing vs.~cited direction (RQ3).} Decomposing each journal's
 brokerage metrics by direction (out = what it cites; in = who cites it):
+
+[Table 4 about here]
 
 {\def\LTcaptype{none} % do not increment counter
 \begin{longtable}[]{@{}
@@ -1502,42 +1498,6 @@ reference-coverage differentials, RSE abstract sparsity, and moderate
 topic stability (mean ARI \\approx 0.50), within-system- only topic bridge
 inferences (9.05\% internal references), and journal- level uncertainty
 beyond the article-level bootstrap.
-
-\subsection{Declarations}\label{declarations}
-
-\textbf{Availability of data and materials.} The corpus was harvested
-from the OpenAlex API (public, keyless with rate limits). Processed data
-(works, citation edges, cluster assignments, topic terms, run records)
-are available in the project repository at {[}repository URL to be
-inserted at final preparation{]}. The analysis scripts use only numpy,
-fastembed, and onnxruntime.
-
-\textbf{Competing interests.} The authors declare no competing
-interests.
-
-\textbf{Funding.} This research received no specific grant from any
-funding agency in the public, commercial, or not-for-profit sectors.
-
-**Authors' contributions.'' {[}Double-blind: authors blinded.
-Contributions include: study design and conceptualization; data
-harvesting and preprocessing; citation-network construction and
-analysis; topic modeling and cluster interpretation; brokerage metric
-computation; topic coherence scoring; coverage-adjusted sensitivity
-analysis; bootstrap uncertainty quantification; temporal analysis;
-manuscript writing and revision.{]}
-
-\textbf{Acknowledgements.} {[}Double-blind: no identifying content. The
-authors acknowledge the OpenAlex project for providing open bibliometric
-metadata, and the developers of fastembed, NumPy, and ONNX Runtime for
-open-source analysis tools.{]}
-
-\textbf{Authors' information.} {[}Optional; not included in double-blind
-submission.{]}
-
-\textbf{Ethics approval.} Not applicable '' secondary analysis of public
-bibliometric metadata; no human or animal participants.
-
-\textbf{Consent to publish.} Not applicable.
 
 \subsection{List of abbreviations}\label{list-of-abbreviations}
 
